@@ -1,7 +1,7 @@
 
 # Introduction to Version Control, Git, and GitHub
 
-This document gives a basic explanation of version control, what it is used for, and the difference between Git and GitHub. It is written in a clear and beginner-friendly manner for easy understanding.
+This document gives a basic explanation of version control, what it is used for, and the difference between Git and GitHub. I wrote it in a clear and beginner-friendly manner for easy understanding.
 
 
 
